@@ -1,0 +1,1 @@
+function underscore(){}function backbone(){}function test(){}var a=1,b=2;$(function(){console.log(a),console.log(b),fun=function(){console.log(b)}}),define("$",function(){}),define("_",function(){}),define("B",function(){}),define("Test",function(){});
